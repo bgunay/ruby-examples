@@ -1,0 +1,4 @@
+Error. undefined method `+' for nil:NilClass
+
+  puts nil + 10
+           ^ at 2022-12-19 22:18:48 +0300
